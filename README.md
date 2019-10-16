@@ -8,7 +8,6 @@
 2. 建立db.json档案
 3. 访问https://my-json-server.typicode.com/ <您的用户名> / <您的回购>以访问您的服务器<br>
    例如：https://my-json-server.typicode.com/HaloHan2017/json-server
-4. 创建db.json数据文件
 
 ## 二、在线API使用 
 
